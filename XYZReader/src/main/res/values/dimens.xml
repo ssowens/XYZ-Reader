@@ -9,5 +9,6 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="card_elevation">1dp</dimen>
     <dimen name="card_raised_elevation">8dp</dimen>
+    <dimen name="toolbar_height">112dp</dimen>
 
 </resources>
