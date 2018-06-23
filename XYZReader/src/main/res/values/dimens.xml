@@ -7,5 +7,7 @@
     <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">12dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
+    <dimen name="card_raised_elevation">8dp</dimen>
 
 </resources>
