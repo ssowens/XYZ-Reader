@@ -23,10 +23,6 @@
         <item name="colorAccent">@color/amber_a200</item>
     </style>
 
-    <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
-
     <style name="customfontstyle" parent="@android:style/TextAppearance.Small">
         <item name="android:fontFamily">sans-serif</item>
     </style>

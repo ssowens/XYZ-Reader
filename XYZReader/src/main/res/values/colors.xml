@@ -27,5 +27,7 @@
     <color name="lightblue_500">#03A9F4</color>
     <color name="lightblue_700">#0288D1</color>
     <color name="amber_a200">#FFD740</color>
+    <color name="black60percent_opacity">#99000000</color>
+    <color name="black85percent_opacity">#D9000000</color>
 
 </resources>
