@@ -49,7 +49,6 @@ public class ArticleDetailFragment extends Fragment implements
     private int mTopInset;
     private View mPhotoContainerView;
     private ImageView mPhotoView;
-    private int mScrollY;
     private boolean mIsCard = false;
     private int mStatusBarFullOpacityBottom;
 
